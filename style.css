@@ -1,0 +1,36 @@
+
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+
+background-color: blueviolet;
+}
+h1 { text-align: center;
+    font-size: 38pt;
+    font-family: Bebas Neue;
+    color: rgb(255, 255, 0);
+    
+}
+
+p {
+    text-align: center;
+    font-family: Lemon Milk;
+    font-size: 13pt;
+}
+hr {
+    color: black;
+}
+.centralize {
+    display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.Centralizador2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
